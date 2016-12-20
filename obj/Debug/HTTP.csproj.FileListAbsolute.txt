@@ -1,0 +1,11 @@
+D:\Mcode\12月\HTTP\HTTP\bin\Debug\HTTP.exe.config
+D:\Mcode\12月\HTTP\HTTP\bin\Debug\HTTP.exe
+D:\Mcode\12月\HTTP\HTTP\bin\Debug\HTTP.pdb
+D:\Mcode\12月\HTTP\HTTP\obj\Debug\HTTP.Form1.resources
+D:\Mcode\12月\HTTP\HTTP\obj\Debug\HTTP.Properties.Resources.resources
+D:\Mcode\12月\HTTP\HTTP\obj\Debug\HTTP.csproj.GenerateResource.Cache
+D:\Mcode\12月\HTTP\HTTP\obj\Debug\HTTP.exe
+D:\Mcode\12月\HTTP\HTTP\obj\Debug\HTTP.pdb
+D:\Mcode\12月\HTTP\HTTP\bin\Debug\CSkin.dll
+D:\Mcode\12月\HTTP\HTTP\bin\Debug\CSkin.xml
+D:\Mcode\12月\HTTP\HTTP\obj\Debug\HTTP.csprojResolveAssemblyReference.cache

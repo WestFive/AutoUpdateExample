@@ -1,0 +1,10 @@
+D:\Mcode\12月\HTTP\HTTP\bin\Release\HTTP.exe.config
+D:\Mcode\12月\HTTP\HTTP\bin\Release\HTTP.exe
+D:\Mcode\12月\HTTP\HTTP\bin\Release\HTTP.pdb
+D:\Mcode\12月\HTTP\HTTP\bin\Release\CSkin.dll
+D:\Mcode\12月\HTTP\HTTP\bin\Release\CSkin.xml
+D:\Mcode\12月\HTTP\HTTP\obj\Release\HTTP.Form1.resources
+D:\Mcode\12月\HTTP\HTTP\obj\Release\HTTP.Properties.Resources.resources
+D:\Mcode\12月\HTTP\HTTP\obj\Release\HTTP.csproj.GenerateResource.Cache
+D:\Mcode\12月\HTTP\HTTP\obj\Release\HTTP.exe
+D:\Mcode\12月\HTTP\HTTP\obj\Release\HTTP.pdb
